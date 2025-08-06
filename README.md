@@ -2,7 +2,7 @@
 
 🎓 MCA Student at DIT University, India  
 📍 Bazpur, Uttarakhand, India  
-🔗 https://www.linkedin.com/in/yogita-tiwari-2470a4233 | [LeetCode](https://leetcode.com/u/Yogita_Tiwari710/) | [GitHub](https://github.com/YogitaTiwari8)
+🔗 [LinkedIn](https://www.linkedin.com/in/yogita-tiwari-2470a4233) | [LeetCode](https://leetcode.com/u/Yogita_Tiwari710/) | [GitHub](https://github.com/YogitaTiwari8)
 
 ---
 
@@ -27,7 +27,7 @@ I enjoy building intuitive applications and solving algorithmic problems that ch
 
 ### 🔹 Inventory Management System  
 📌 Java · Swing GUI · MySQL · JDBC  
-📎 https://github.com/YogitaTiwari8/inventory-management-system
+📎 [GitHub Repo](https://github.com/YogitaTiwari8/inventory-management-system)
 🛠 Developed a desktop-based inventory system to manage categories, products, customers, and orders through an intuitive GUI.
 
 ---
@@ -64,6 +64,4 @@ I'm always open to collaboration, internships, and learning opportunities. Feel 
 - 🌐 [GitHub](https://github.com/YogitaTiwari8)
 
 ---
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 Let’s build something amazing together! 🚀
