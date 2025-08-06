@@ -9,7 +9,7 @@
 ## 👋 About Me
 
 I’m **Yogita Tiwari**, a passionate Computer Application student who loves to explore backend technologies, Android app development, and problem-solving.  
-Currently pursuing **MCA at DIT University** with a strong academic background (CGPA: 9.21).  
+Currently pursuing **MCA at DIT University** with a strong academic background (CGPA: 9.19).  
 I enjoy building intuitive applications and solving algorithmic problems that challenge me to think critically and learn continuously.
 
 ---
@@ -19,7 +19,7 @@ I enjoy building intuitive applications and solving algorithmic problems that ch
 - **Languages**: Java, Kotlin, MySQL, HTML5, CSS, XML  
 - **Development**: Android Studio, Java Swing, JDBC  
 - **Tools**: Git, GitHub, VS Code, NetBeans  
-- **Core Competencies**: Data Structures & Algorithms, Object-Oriented Programming, UI Design, SQL
+- **Core Competencies**: Data Structures & Algorithms, Object-Oriented Programming, SQL
 
 ---
 
